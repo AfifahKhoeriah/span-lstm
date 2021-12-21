@@ -1,0 +1,8 @@
+upload/
+saved/
+datatrain.csv
+lstm_sigmoid_adam.h5
+__pycache__/
+.vscode/
+app/__pycache__/
+virtualenv/
